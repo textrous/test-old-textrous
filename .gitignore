@@ -1,0 +1,10 @@
+__pycache__
+
+# Ignore currently unused pickles
+gene2mim.pkl
+gene2pubmed_filtered.pkl
+gene2word.pkl
+neighbors.pkl
+P.pkl
+word2id.pkl
+V_old.pkl
